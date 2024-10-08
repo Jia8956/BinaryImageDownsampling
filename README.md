@@ -19,7 +19,8 @@
    - <calculate_errors>: Whether to calculate errors (opptional, 0 or 1)
      - Default value: 0 (do not calculate)
    - <save_components>: Whether to output component index map (optional, 0 or 1)
-     -Default value: 0 (do not output)
+     - Default value: 0 (do not output)
    - <neighborhood_offset>: Coverage offset
+      - Default: 0
 
 
