@@ -1,7 +1,7 @@
 # Topology-Preserving Binary Image Downsampling
 
 ## ECCV 2024: Topology-Preserving Downsampling of Binary Images
-
+## SIGGRAPH Asia 2024 Poster: Shortest Path Speed-up Through Binary Image Downsampling
 ## How to use topology-preserving downsampling tool
 
 1. Open the "downsampling" project, and select the "x64" platform and "Release" configurtion.
