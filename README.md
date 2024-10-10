@@ -24,3 +24,15 @@
       - Default: 0
 
 
+<table>
+  <tr>
+    <td><img src="https://github.com/chenchiachia/BinaryImageDownsampling/blob/main/downsampling/images/BinaryMask/19_112.png" alt="Image 1" width="300"></td>
+    <td><img src="./assets/image2.png" alt="Image 2" width="300"></td>
+    <td><img src="./assets/image3.png" alt="Image 3" width="300"></td>
+  </tr>
+  <tr>
+    <td>This is the first image. It shows the main dashboard of the application.</td>
+    <td>The second image illustrates the data visualization features of the app.</td>
+    <td>The third image presents the user settings page of the application.</td>
+  </tr>
+</table>
