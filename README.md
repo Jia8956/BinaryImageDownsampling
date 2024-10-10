@@ -23,16 +23,21 @@
    - <neighborhood_offset>: Coverage offset
       - Default: 0
 
-
-<div style="display: flex; justify-content: center;">
+<div style="display: flex, "width: 100%;"; justify-content: center;">
   <table>
     <tr>
-      <td><img src="https://github.com/chenchiachia/BinaryImageDownsampling/blob/main/downsampling/images/BinaryMask/19_112.png" alt="Image 1" width="200"></td>
-      <td><img src="https://github.com/chenchiachia/BinaryImageDownsampling/blob/main/downsampling/images/BinaryMask/19_112.png.64x64.png" alt="Image 2" width="200"></td>
+      <td><img src="https://github.com/chenchiachia/BinaryImageDownsampling/blob/main/downsampling/images/BinaryMask/19_112.png" alt="Image 1" width="225"></td>
+       <td><img src="https://github.com/chenchiachia/BinaryImageDownsampling/blob/main/downsampling/images/BinaryMask/19_112.png.256x256.png" alt="Image 2" width="200"></td>
+       <td><img src="https://github.com/chenchiachia/BinaryImageDownsampling/blob/main/downsampling/images/BinaryMask/19_112.png.128x128.png" alt="Image 3" width="200"></td>
+      <td><img src="https://github.com/chenchiachia/BinaryImageDownsampling/blob/main/downsampling/images/BinaryMask/19_112.png.64x64.png" alt="Image 4" width="200"></td>
+       <td><img src="https://github.com/chenchiachia/BinaryImageDownsampling/blob/main/downsampling/images/BinaryMask/19_112.png.32x32.png" alt="Image 5" width="200"></td>
     </tr>
     <tr>
       <td>Original binary image</td>
-      <td>8x dowwnsampling results</td>
+       <td>2x dowwnsampling</td>
+       <td>4x dowwnsampling</td>
+       <td>8x dowwnsampling</td>
+       <td>16x dowwnsampling</td>
     </tr>
   </table>
 </div>
