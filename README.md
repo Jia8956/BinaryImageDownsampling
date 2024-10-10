@@ -1,5 +1,7 @@
 # Topology-Preserving Binary Image Downsampling
 
+## ECCV 2024: Topology-Preserving Downsampling of Binary Images
+
 ## How to use topology-preserving downsampling tool
 
 1. Open the "downsampling" project, and select the "x64" platform and "Release" configurtion.
@@ -41,3 +43,5 @@
     </tr>
   </table>
 </div>
+
+## How to use dilation downsampling tool
